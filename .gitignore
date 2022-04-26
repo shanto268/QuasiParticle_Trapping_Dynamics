@@ -1,0 +1,7 @@
+data/*
+__pycache__/*
+Legacy/*
+res_test/*
+results/*
+*png
+*pickle
